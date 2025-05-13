@@ -5,5 +5,5 @@ $contatos = [
 ];
 
 foreach($contatos as $nome => $telefone){
-    echo "Nome do contato $nome, telefone $telefone \n";
+    echo "Nome do contato $nome, telefones $telefone \n";
 }
